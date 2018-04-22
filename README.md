@@ -10,6 +10,10 @@ I'm Alex(何廣雷).This is my python project.
   panda intruduction
   
   * In class
+  1. 91APP data
+  2. pandas introduction 
+  
+  task：[91Appdata_Analysis](https://github.com/KungRayHo/python_project/blob/master/%5Bpython%5D%20week_1/task1.ipynb)
   
   * At home
   
