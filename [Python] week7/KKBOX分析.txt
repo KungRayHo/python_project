@@ -1,0 +1,4 @@
+Task:
+
+predict whether a user of the music streaming service KKBox will ¡§churn¡¨, 
+i.e. leave this subscription-based service, by analysing the user¡¦s behaviour on the website.
