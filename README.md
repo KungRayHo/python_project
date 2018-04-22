@@ -26,46 +26,54 @@ I'm Alex(何廣雷).This is my python project.
   web crawler
   
   * In class
-    1. learning about web crawler
-    2. pchome_parser、ptt_parser、youtube_parser
-    3. Analysis data from web
+    1. learning about web crawler
+    2. pchome_parser、ptt_parser、youtube_parser
+    3. Analysis data from web
     
     task_2：[A-SO-BI_Analysis](https://github.com/KungRayHo/python_project/blob/master/%5Bpython%5D%20week_2/task_2/week2.ipynb)
     
-  * At home
+  * At home
+    1. crawler using post
+    2. crawler using selenium
+    
+    homework_2：[RainData_91APP](https://github.com/KungRayHo/python_project/blob/master/%5Bpython%5D%20week_2/hw_2/Web%20Crawler_post.ipynb)
 
+  
 ### week_3
-  panda intruduction
+  data visualization
   
   * In class
-  
+    1. 91App sharing something about marketing and analysis
+    2. data visualization
+    
+    task_3：[RainDataVisualization](https://github.com/KungRayHo/python_project/blob/master/%5Bpython%5D%20week_3/CSX3_rainDataVisualization.ipynb)
+    
   * At home
-  
+    1. data visualization
+    
+    homework_3：[AirPolution](https://github.com/KungRayHo/python_project/blob/master/%5Bpython%5D%20week_3/airPolution/CXS3_airPolutionVisaulization.ipynb)
+
 ### week_4
-  web crawler
+  Open API Crawler
   
   * In class
-  
+    1. FB API Crawler
+    2. words analysis
+    
+    task_4：[facebook-checkpoint](https://github.com/KungRayHo/python_project/blob/master/%5Bpython%5D%20week_4/facebook-checkpoint.ipynb)
+    
   * At home
-  
-### week_5
-  panda intruduction
-  
-  * In class
-  
+    1. 91APP_newdata
+    2. Visualiztion data on map
+    homework_4：[91APP_map visualization](https://github.com/KungRayHo/python_project/blob/master/%5Bpython%5D%20week_4/91APP_map%20visualization.ipynb)
+    
+ ### week_5
+  Term to Document Matrix、WordVec、 TF-IDF
+  * In class
+   
   * At home
-  
-### week_6
-  web crawler
-  
-  * In class
-  
-  * At home
-  
-  
-### week_7
-  web crawler
-  
-  * In class
-  
-  * At home
+    1. homework_5
+    homework_5：[word2vec_demo](https://github.com/KungRayHo/python_project/blob/master/%5Bpython%5D%20week_5/word2Vec/word2vec_demo.ipynb)
+    
+
+    
