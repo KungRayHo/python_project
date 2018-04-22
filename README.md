@@ -9,55 +9,55 @@ I'm Alex(何廣雷).This is my python project.
 ### week_1
   panda intruduction
   
-  *In class
+  * In class
   
-  *At home
+  * At home
   
 ### week_2
   web crawler
   
-  *In class
+  * In class
   
-  *At home
+  * At home
 
 ### week_3
   panda intruduction
   
-  *In class
+  * In class
   
-  *At home
+  * At home
   
 ### week_4
   web crawler
   
-  *In class
+  * In class
   
-  *At home
+  * At home
   
 ### week_5
   panda intruduction
   
-  *In class
+  * In class
   
-  *At home
+  * At home
   
 ### week_6
   web crawler
   
-  *In class
+  * In class
   
-  *At home
+  * At home
   
   ### week_1
   panda intruduction
   
-  *In class
+  * In class
   
-  *At home
+  * At home
   
 ### week_7
   web crawler
   
-  *In class
+  * In class
   
-  *At home
+  * At home
