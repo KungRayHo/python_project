@@ -64,7 +64,7 @@ I'm Alex(何廣雷).This is my python project.
     
   * At home
     1. 91APP_newdata
-    2. Visualiztion data on map
+    2. Visualiztion data on map
     homework_4：[91APP_map visualization](https://github.com/KungRayHo/python_project/blob/master/%5Bpython%5D%20week_4/91APP_map%20visualization.ipynb)
     
  ### week_5
