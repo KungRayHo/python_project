@@ -71,7 +71,7 @@ I'm Alex(何廣雷).This is my python project.
  ### week_5
   Term to Document Matrix、WordVec、 TF-IDF
   
-  * In class
+  * In class
    
   * At home
     1. homework_5
@@ -107,8 +107,10 @@ I'm Alex(何廣雷).This is my python project.
 ### Final Project
   91App data analysis
   1. version 1
+  
   slide：[FinalProject.pdf](https://github.com/KungRayHo/python_project/blob/master/%5Bpython%5D%20FinalProject/final%20project.pdf)
   
   2.version 2
+  
   slide：[FinalProject.ppt](https://github.com/KungRayHo/python_project/blob/master/%5Bpython%5D%20FinalProject/FinalProject.pptx)
   code：[FinalProject.ipynb](https://github.com/KungRayHo/python_project/blob/master/%5Bpython%5D%20FinalProject/FinalProject.ipynb)
