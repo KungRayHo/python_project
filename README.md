@@ -81,22 +81,6 @@ I'm Alex(何廣雷).This is my python project.
 ### week_6
   Final Project Presentation、91App recommand
  
-### week_7
-  machine learning 、deep learning
-  
-  * In class
-    1. learning about web crawler
-    2. pchome_parser、ptt_parser、youtube_parser
-    3. Analysis data from web
-    
-    task_2：[A-SO-BI_Analysis](https://github.com/KungRayHo/python_project/blob/master/%5Bpython%5D%20week_2/task_2/week2.ipynb)
-    
-  * At home
-    1. crawler using post
-    2. crawler using selenium
-    
-    homework_2：[RainData_91APP](https://github.com/KungRayHo/python_project/blob/master/%5Bpython%5D%20week_2/hw_2/Web%20Crawler_post.ipynb)
-
   
 ### Project_1
   word analysis
