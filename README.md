@@ -112,8 +112,13 @@ I'm Alex(何廣雷).This is my python project.
 ### Project_1
   word analysis
   
-  project_1：[CollegeEntranceExamination_WordAnalysis](https://github.com/KungRayHo/python_project/blob/master/%5Bpython%5D%20project_1/project_1.ipynb)
+  * project_1：[CollegeEntranceExamination_WordAnalysis](https://github.com/KungRayHo/python_project/blob/master/%5Bpython%5D%20project_1/project_1.ipynb)
   
+
+### Project_2
+  machine learning predict tatanic survival
+  
+  * project_2：[TitanicSurvice](https://github.com/KungRayHo/python_project/blob/master/%5BPython%5D%20project_2/TitanicSurvice.ipynb)
   
 ### Final Project
   91App data analysis
