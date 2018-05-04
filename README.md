@@ -89,12 +89,12 @@ I'm Alex(何廣雷).This is my python project.
   * In class
     1. machine learning introduction
     2. SVM
-    3. SVM exemple
+    3. SVM exemple
     
   * At home
-    1. 李弘毅教授 machinne learning(ML lecture 0~4)
-    2. Regrssion practice [Regression_PM25](https://github.com/KungRayHo/python_project/blob/master/%5BPython%5D%20week_7/Regression_PM25.ipynb)
-    3. SVM practice [AreYouDead_91APP_Classify](https://github.com/KungRayHo/python_project/blob/master/%5BPython%5D%20week_7/AreYouDead_91APP_Classify.ipynb)
+    1. 李弘毅教授 machinne learning(ML lecture 0~4)
+    2. Regrssion practice [Regression_PM25](https://github.com/KungRayHo/python_project/blob/master/%5BPython%5D%20week_7/Regression_PM25.ipynb)
+    3. SVM practice [AreYouDead_91APP_Classify](https://github.com/KungRayHo/python_project/blob/master/%5BPython%5D%20week_7/AreYouDead_91APP_Classify.ipynb)
 
 
 ### Project_1
