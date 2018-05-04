@@ -84,8 +84,8 @@ I'm Alex(何廣雷).This is my python project.
 
   
 ### week_7
-  data visualization
-  
+  machine learning、SVM
+  
   * In class
     1. machine learning introduction
     2. SVM
@@ -96,6 +96,18 @@ I'm Alex(何廣雷).This is my python project.
     2. Regrssion practice [Regression_PM25](https://github.com/KungRayHo/python_project/blob/master/%5BPython%5D%20week_7/Regression_PM25.ipynb)
     3. SVM practice [AreYouDead_91APP_Classify](https://github.com/KungRayHo/python_project/blob/master/%5BPython%5D%20week_7/AreYouDead_91APP_Classify.ipynb)
 
+
+  
+### week_8
+  PCA
+  
+  * In class
+    1. PCA introduction
+    2. tatanic exemple
+    3. dating exemple
+    
+  * At home
+    1. 李弘毅教授 machinne learning(ML lecture 5~7)
 
 ### Project_1
   word analysis
