@@ -81,12 +81,44 @@ I'm Alex(何廣雷).This is my python project.
 ### week_6
   Final Project Presentation、91App recommand
  
+
   
+### week_7
+  machine learning、SVM
+  
+  * In class
+    1. machine learning introduction
+    2. SVM
+    3. SVM exemple
+    
+  * At home
+    1. 李弘毅教授 machinne learning(ML lecture 0~4)
+    2. Regrssion practice [Regression_PM25](https://github.com/KungRayHo/python_project/blob/master/%5BPython%5D%20week_7/Regression_PM25.ipynb)
+    3. SVM practice [AreYouDead_91APP_Classify](https://github.com/KungRayHo/python_project/blob/master/%5BPython%5D%20week_7/AreYouDead_91APP_Classify.ipynb)
+
+
+  
+### week_8
+  PCA
+  
+  * In class
+    1. PCA introduction
+    2. tatanic exemple
+    3. dating exemple
+    
+  * At home
+    1. 李弘毅教授 machinne learning(ML lecture 5~7)
+
 ### Project_1
   word analysis
   
-  project_1：[CollegeEntranceExamination_WordAnalysis](https://github.com/KungRayHo/python_project/blob/master/%5Bpython%5D%20project_1/project_1.ipynb)
+  * project_1：[CollegeEntranceExamination_WordAnalysis](https://github.com/KungRayHo/python_project/blob/master/%5Bpython%5D%20project_1/project_1.ipynb)
   
+
+### Project_2
+  machine learning predict tatanic survival
+  
+  * project_2：[TitanicSurvice](https://github.com/KungRayHo/python_project/blob/master/%5BPython%5D%20project_2/TitanicSurvice.ipynb)
   
 ### Final Project
   91App data analysis
