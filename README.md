@@ -108,7 +108,7 @@ I'm Alex(何廣雷).This is my python project.
     
   * At home
     1. 李弘毅教授 machinne learning(ML lecture 5~7)
-    2.
+    2. project_2：tatanic
     
     
  ### week_9
@@ -120,7 +120,39 @@ I'm Alex(何廣雷).This is my python project.
     
   * At home
     1. 李弘毅教授 machinne learning(ML lecture 7~9)
-    2.
+    2. project_3：ANOVA analysis
+    
+ ### week_10
+  Apriori
+  
+  * In class
+    1. Apriori
+    2. [91APP Apriori](https://github.com/KungRayHo/python_project/blob/master/%5Bpython%5D%20week_10/apriori_91APP.ipynb)
+    
+  * At home
+    1. Decision tree
+    2. project_3：Apriori Analysis
+    
+ ### week_11
+  Deep Learning 、keras、pytorch
+  
+  * In class
+    1. keras、pytorch
+    
+  * At home
+    1. [Keras text practice](https://github.com/KungRayHo/python_project/blob/master/%5Bpython%5D%20week_11/Untitled.ipynb)
+    2. [Keras_91APP_Classify_2](https://github.com/KungRayHo/python_project/blob/master/%5Bpython%5D%20week_11/classify/Keras_91APP_Classify_2.ipynb)
+    
+
+ ### week_12
+  CNN
+  
+  * In class
+    1. CNN
+    
+    
+  * At home
+    1. 
 
 ### Project_1
   word analysis
@@ -132,6 +164,22 @@ I'm Alex(何廣雷).This is my python project.
   machine learning predict tatanic survival
   
   * project_2：[TitanicSurvice](https://github.com/KungRayHo/python_project/blob/master/%5BPython%5D%20project_2/TitanicSurvice.ipynb)
+  
+  
+### Project_3
+  using ANOVA analysis in AQXDaily 
+  
+  * project_3：[AQXDaily](https://github.com/KungRayHo/python_project/blob/master/%5Bpython%5D%20week_9/AQXDaily.ipynb)
+  
+### Project_4
+  Apriori analysis in 91APP
+  
+  * project_4：
+  
+### Project_5
+  construct CNN
+  
+  * project_5：
   
 ### Final Project
   91App data analysis
