@@ -108,6 +108,19 @@ I'm Alex(何廣雷).This is my python project.
     
   * At home
     1. 李弘毅教授 machinne learning(ML lecture 5~7)
+    2.
+    
+    
+ ### week_9
+  Linear Regression、ANOVA
+  
+  * In class
+    1. ANOVA
+    2. data Anlaysis(using statistic)
+    
+  * At home
+    1. 李弘毅教授 machinne learning(ML lecture 7~9)
+    2.
 
 ### Project_1
   word analysis
