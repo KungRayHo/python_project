@@ -191,3 +191,7 @@ I'm Alex(何廣雷).This is my python project.
   
   slide：[FinalProject.ppt](https://github.com/KungRayHo/python_project/blob/master/%5Bpython%5D%20FinalProject/FinalProject.pptx)
   code：[FinalProject.ipynb](https://github.com/KungRayHo/python_project/blob/master/%5Bpython%5D%20FinalProject/FinalProject.ipynb)
+  
+  3.version 3
+  
+  slide：[FinalProject3.ppt](https://github.com/KungRayHo/python_project/blob/master/%5Bpython%5D%20FinalProject/FinalProject3.pptx)
