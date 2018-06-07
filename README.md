@@ -195,3 +195,4 @@ I'm Alex(何廣雷).This is my python project.
   3.version 3
   
   slide：[FinalProject3.ppt](https://github.com/KungRayHo/python_project/blob/master/%5Bpython%5D%20FinalProject/FinalProject3.pptx)
+  pdf：[FinalProject3.pdf](https://github.com/KungRayHo/python_project/blob/master/%5Bpython%5D%20FinalProject/FinalProject3.pdf)
