@@ -1,4 +1,4 @@
-# CSX_Python_進階軟體開發專題_SPring_2018
+# CSX_Python_進階軟體開發專題_Spring_2018
 
 ## introduction
 
@@ -174,12 +174,12 @@ I'm Alex(何廣雷).This is my python project.
 ### Project_4
   Apriori analysis in 91APP
   
-  * project_4：
+  * project_4：[Apriori Analysis](https://github.com/KungRayHo/python_project/blob/master/%5Bpython%5D%20week_10/apriori_91APP.ipynb)
   
 ### Project_5
-  construct CNN
-  
-  * project_5：
+  construct CNN、PyTorch
+  * project_5：[face recognition](https://github.com/KungRayHo/python_project/blob/master/%5Bpython%5D%20week_12/face%20recognition/face%20recognition.ipynb)
+  [PyTorch]
   
 ### Final Project
   91App data analysis
