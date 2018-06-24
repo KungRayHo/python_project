@@ -154,6 +154,7 @@ I'm Alex(何廣雷).This is my python project.
   * At home
     1. CNN prectice
     2. vedio
+    3. [face recognition](https://github.com/KungRayHo/python_project/blob/master/%5Bpython%5D%20week_12/face%20recognition/face%20recognition.ipynb)
 
 ### Project_1
   word analysis
@@ -179,8 +180,7 @@ I'm Alex(何廣雷).This is my python project.
   
 ### Project_5
   construct CNN、PyTorch
-  * project_5：[face recognition](https://github.com/KungRayHo/python_project/blob/master/%5Bpython%5D%20week_12/face%20recognition/face%20recognition.ipynb)
-  [PyTorch]
+  * project_5：[PyTorch]
   
 ### Final Project
   91App data analysis
