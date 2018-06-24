@@ -152,7 +152,8 @@ I'm Alex(何廣雷).This is my python project.
     
     
   * At home
-    1. 
+    1. CNN prectice
+    2. vedio
 
 ### Project_1
   word analysis
